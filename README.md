@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Jatin%20Rajak&fontSize=45&fontColor=ffffff)
 <h1 align="center">Hi 👋, I'm Jatin Rajak</h1>
 <h3 align="center">B.Tech Student | Python Learner | Future Software Engineer</h3>
 
