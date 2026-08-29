@@ -25,10 +25,13 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/jatin-rajak-266874391/https://img.shields.io/badge/LINKEDIN-3776AB?style=for-the-badge
-- GITHUB:- GitHub: https://github.com/jatinrajak06
-- EMAIL:JATINRAJAK0609@GMAIL.COM
+## 🤝 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatin-rajak-266874391/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/jatinrajak06)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](jatinrajak0609@gmail.com)
 <!--
 **jatinrajak06/jatinrajak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
