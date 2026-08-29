@@ -23,13 +23,11 @@
 
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinrajak06&show_icons=true)
 
-## 📫 Connect With Me
+## 📫 Connect With me
 
-## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatin-rajak-266874391/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatin-rajak-266874391/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/jatinrajak06)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jatinrajak06)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](jatinrajak0609@gmail.com)
 <!--
