@@ -25,7 +25,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/jatin-rajak-266874391/
+- LinkedIn: https://www.linkedin.com/in/jatin-rajak-266874391/https://img.shields.io/badge/LINKEDIN-3776AB?style=for-the-badge
 - GITHUB:- GitHub: https://github.com/jatinrajak06
 - EMAIL:JATINRAJAK0609@GMAIL.COM
 
