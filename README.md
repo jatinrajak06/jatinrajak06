@@ -14,9 +14,7 @@
 - 🌱 Currently learning Git & GitHub
 - 🎯 Goal: Become a Software Engineer
 
-## 🛠 Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+## 🛠 Sk
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
@@ -27,8 +25,7 @@
 
 ## 📫 Connect With Me
 
-- Instagram: @your_instagram
-- LinkedIn: Your LinkedIn Link
+- LinkedIn: https://www.linkedin.com/in/jatin-rajak-266874391/
 
 <!--
 **jatinrajak06/jatinrajak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
