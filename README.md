@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hello, I'm Jatin Rajak 👋
+
+🎓 B.Tech Student
+
+💻 Learning Java, Machine Learning & Web Development
+
+🚀 Future Software Engineer
+
+## Skills
+- Java
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## Connect With Me
+- Instagram: @your_instagram
+- LinkedIn: your_linkedin
 
 <!--
 **jatinrajak06/jatinrajak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
