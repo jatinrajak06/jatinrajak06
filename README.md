@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Jatin%20Rajak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20|%20Python%20Learner%20|%20Future%20Software%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=JATIN%20RAJAK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20B.Tech%20Student%20%7C%20Python%20Learner&descAlignY=58&descSize=20" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Jatin Rajak</h1>
 <h3 align="center">B.Tech Student | Python Learner | Future Software Engineer</h3>
