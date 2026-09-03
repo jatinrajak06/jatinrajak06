@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=JATIN%20RAJAK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20B.Tech%20Student%20%7C%20Python%20Learner&descAlignY=58&descSize=20" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Jatin Rajak</h1>
@@ -44,6 +44,23 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
 -->
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=6,11,20,24,30&text=JATIN%20RAJAK&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Student%20|%20Python%20Developer%20|%20Future%20Software%20Engineer&descAlignY=60&descSize=22" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Jatin Rajak</h1>
+
+<h3 align="center">
+🚀 Passionate Developer | 💻 Learning Python & Web Development | 🎓 B.Tech Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Python+Developer;Frontend+Developer;Open+Source+Learner;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jatinrajak06&theme=algolia&no-frame=true&margin-w=10" />
+</p>
