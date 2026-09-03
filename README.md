@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/banner.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Jatin%20Rajak&fontColor=ffffff&fontSize=60&animation=twinkling" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Jatin Rajak</h1>
 <h3 align="center">B.Tech Student | Python Learner | Future Software Engineer</h3>
