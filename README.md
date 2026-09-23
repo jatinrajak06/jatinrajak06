@@ -44,7 +44,7 @@ B.Tech Student | Python Learner | Future Software Engineer
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="mailto:jatinrajak0609@gmail.com">
+  <a href="mailto:jatinrajak69@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
